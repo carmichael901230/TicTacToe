@@ -3,7 +3,7 @@ simple tic tac toe game, played on termial
 
 ### Download the ```.exe``` file, have a glance of the game
 
-(Make suer C++ compiler is install and path is set up.)
+(Make sure C++ compiler is install and its path is set up.)
 
 ### Or download the ```.cpp``` file, compile and run.
 
