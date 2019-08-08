@@ -17,7 +17,7 @@ Enter corrosponding number, 1-Easy; 2-Hard
 
 - Decide who goes first.
 
-Enter corrosponding number, 1-Play goes first; 2-Computer goes first
+Enter corrosponding number, 1-Player goes first; 2-Computer goes first
 
 ![image](https://user-images.githubusercontent.com/34822412/62555080-49f93f80-b840-11e9-8ee8-0e429b25d373.png)
 
