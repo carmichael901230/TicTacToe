@@ -23,13 +23,13 @@ Enter corrosponding number, 1-Player goes first; 2-Computer goes first
 
 - Start playing
 
-Enter the number on paly-board to palce your mark
+Enter the number on play-board to palce your mark
 
 ![image](https://user-images.githubusercontent.com/34822412/62555182-79a84780-b840-11e9-8595-589997d6ca73.png)
 
 - Win, lose or draw
 
 Result infomation is displayed at the end of a round.
-Enter 'y' or 'n' to paly another round or exit the game 
+Enter 'y' or 'n' to play another round or exit the game 
 
 ![image](https://user-images.githubusercontent.com/34822412/62555561-2aaee200-b841-11e9-8600-a426cdd93174.png)
